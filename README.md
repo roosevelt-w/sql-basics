@@ -7,6 +7,7 @@ This repository documents my understanding of SQL and how backend systems use da
 - Databases store data in tables
 - Tables have rows (records) and columns (fields)
 - SQL supports CRUD operations (Create, Read, Update, Delete)
+- Built an Express API that connects to PostgreSQL and returns database as rows as JSON.
 
 ## Tools
 - PostgreSQL
